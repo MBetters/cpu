@@ -1,0 +1,10 @@
+v 3
+file . "clock_generator.vhdl" "20170503025844.000" "20170506024029.238":
+  entity clock_generator at 1( 0) + 0 on 91;
+  architecture behav of clock_generator at 13( 327) + 0 on 92;
+file . "two_bit_reg.vhdl" "20170502212114.000" "20170506024029.415":
+  entity two_bit_reg at 1( 0) + 0 on 93;
+  architecture behav of two_bit_reg at 14( 315) + 0 on 94;
+file . "clock_generator_tb.vhdl" "20170502213551.000" "20170506024029.071":
+  entity clock_generator_tb at 1( 0) + 0 on 89;
+  architecture behav of clock_generator_tb at 9( 148) + 0 on 90;

@@ -1,0 +1,32 @@
+cpu_tb_alt.vhdl:66:20:@6ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@6ns:(assertion note):     
+cpu_tb_alt.vhdl:103:16:@6ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@16ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@16ns:(assertion note):     
+cpu_tb_alt.vhdl:103:16:@16ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@26ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@26ns:(assertion note):     
+cpu_tb_alt.vhdl:103:16:@26ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@36ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@36ns:(assertion note):     
+cpu_tb_alt.vhdl:103:16:@36ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@46ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@46ns:(assertion note):     
+cpu_tb_alt.vhdl:103:16:@46ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@56ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@56ns:(assertion note):     
+cpu_tb_alt.vhdl:103:16:@56ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@66ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@66ns:(assertion note):     
+cpu_tb_alt.vhdl:103:16:@66ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@76ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@76ns:(assertion note):    1
+cpu_tb_alt.vhdl:103:16:@76ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:66:20:@86ns:(assertion note): CPU Printer Output:
+cpu_tb_alt.vhdl:102:16:@86ns:(assertion note):    1
+cpu_tb_alt.vhdl:103:16:@86ns:(assertion note): %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cpu_tb_alt.vhdl:54:20:@95ns:(assertion note): End of test
+cpu_tb_alt.vhdl:55:20:@95ns:(assertion failure): simulation ended
+./cpu_tb_alt:error: assertion failed
+./cpu_tb_alt:error: simulation failed
+ghdl: compilation error

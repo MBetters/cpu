@@ -1,0 +1,1 @@
+ls assembly/* | xargs -n 1 -I file python assembler.py file "$PWD/machine_code"

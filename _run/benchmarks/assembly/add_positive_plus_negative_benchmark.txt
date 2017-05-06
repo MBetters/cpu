@@ -1,0 +1,4 @@
+lui $reg00 0101
+lui $reg01 1000
+add $reg00 $reg01 $reg10
+prt $reg10

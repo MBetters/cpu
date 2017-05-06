@@ -1,0 +1,2 @@
+lui $reg00 0001
+prt $reg00

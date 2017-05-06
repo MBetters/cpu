@@ -1,0 +1,225 @@
+$date
+  Tue May  2 21:35:08 2017
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 2 ! sc[1:0] $end
+$var reg 1 " ariz $end
+$var reg 1 # i_clk $end
+$var reg 1 $ o_clk $end
+$scope module cg $end
+$var reg 2 % skip_control[1:0] $end
+$var reg 1 & alu_result_is_zero $end
+$var reg 1 ' input_clk $end
+$var reg 1 ( output_clk $end
+$var reg 2 ) branch_control[1:0] $end
+$var reg 2 * skip_reg_next_value_sel[1:0] $end
+$var reg 2 + skip_reg_next_value[1:0] $end
+$var reg 2 , skip_reg_current_value[1:0] $end
+$var reg 1 - skip_reg_current_value_is_non_zero $end
+$var reg 1 . clock_control $end
+$var reg 2 / skip_reg_current_value_decremented[1:0] $end
+$scope module skip_reg $end
+$var reg 2 0 i[1:0] $end
+$var reg 1 1 clk $end
+$var reg 1 2 sel $end
+$var reg 2 3 o[1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b00 !
+0"
+0#
+0$
+b00 %
+0&
+0'
+0(
+b00 )
+b00 *
+b00 +
+bUU ,
+U-
+U.
+b00 /
+b00 0
+01
+12
+bUU 3
+#1000000
+1#
+1$
+1'
+1(
+b00 ,
+0-
+0.
+11
+b00 3
+#1500000
+1"
+1&
+#2000000
+0#
+0$
+0'
+0(
+01
+#2500000
+b01 !
+0"
+b01 %
+0&
+#3000000
+1#
+1$
+1'
+1(
+11
+#3500000
+#4000000
+0#
+0$
+0'
+0(
+01
+#4500000
+1"
+1&
+b01 )
+b01 *
+b01 +
+b01 0
+#5000000
+1#
+0$
+1'
+0(
+b00 *
+b00 +
+b01 ,
+1-
+1.
+b00 0
+11
+b01 3
+#5500000
+#6000000
+0#
+0'
+01
+#6500000
+b10 !
+0"
+b10 %
+0&
+b00 )
+#7000000
+1#
+1$
+1'
+1(
+b00 ,
+0-
+0.
+11
+b00 3
+#7500000
+#8000000
+0#
+0$
+0'
+0(
+01
+#8500000
+#9000000
+1#
+1$
+1'
+1(
+11
+#9500000
+1"
+1&
+b10 )
+b10 *
+b10 +
+b10 0
+#10000000
+0#
+0$
+0'
+0(
+01
+#10500000
+#11000000
+1#
+0$
+1'
+0(
+b00 *
+b01 +
+b10 ,
+1-
+1.
+b01 /
+b01 0
+11
+b10 3
+#11500000
+#12000000
+0#
+0'
+01
+#12500000
+#13000000
+1#
+1'
+b00 +
+b01 ,
+b00 /
+b00 0
+11
+b01 3
+#14000000
+0#
+0'
+01
+#15000000
+1#
+1$
+1'
+1(
+b10 *
+b10 +
+b00 ,
+0-
+0.
+b10 0
+11
+b00 3
+#16000000
+0#
+0$
+0'
+0(
+01
+#17000000
+1#
+0$
+1'
+0(
+b00 *
+b01 +
+b10 ,
+1-
+1.
+b01 /
+b01 0
+11
+b10 3
